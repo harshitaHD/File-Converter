@@ -21,5 +21,5 @@ Python package that simplifies the process of converting various file formats to
 ## Installation
 
 ```bash
-pip install switch-file==1.0.4
+pip install switch-file
 ```
